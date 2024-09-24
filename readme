@@ -1,7 +1,7 @@
 En la actividad de la clase, vamos a consumir el siguiente json
 https://nataliasotelo.github.io/act-estrellas/estrellas.json
 
-Y con el mismo vamos a istar todos los usuarios de personas, debe contener:
+Y con el mismo vamos a listar todos los usuarios de personas, debe contener:
 - nombre
 - compañia (a la que vamos a "ponerle" las entrellas)
 - cantidad de estrellas
